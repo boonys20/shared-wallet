@@ -1,0 +1,26 @@
+{
+  "name": "shared-wallet",
+  "version": "1.0.0",
+  "description": "Example project from UDEMY Course, It's use for learing purpose.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boonys20/shared-wallet.git"
+  },
+  "author": "kungdev.s@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boonys20/shared-wallet/issues"
+  },
+  "homepage": "https://github.com/boonys20/shared-wallet#readme"
+}
