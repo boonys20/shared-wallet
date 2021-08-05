@@ -10,4 +10,5 @@ contract("SharedWallet", function (/* accounts */) {
     await SharedWallet.deployed();
     return assert.isTrue(true);
   });
+
 });
