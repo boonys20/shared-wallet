@@ -6,7 +6,6 @@ The objective of this project is self-study. "How to develop smart contract with
 <br/>💡 Employers give employees an allowance for their travel expenses.
 
 ## Commands:
-
   Compile:              truffle compile
   Migrate:              truffle migrate
   Test contracts:       truffle test

@@ -21,5 +21,4 @@ contract("SharedWallet", accounts => {
       );
     })});
   
-
 });
